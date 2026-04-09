@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: 1.20.1
+    upstream: Faithful-Pack:1.20.1
+    mergeMethod: merge
+    mergeUnstable: true
